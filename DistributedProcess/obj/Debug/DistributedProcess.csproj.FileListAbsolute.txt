@@ -1,0 +1,5 @@
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\DistributedProcess\bin\Debug\DistributedProcess.exe.config
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\DistributedProcess\bin\Debug\DistributedProcess.exe
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\DistributedProcess\bin\Debug\DistributedProcess.pdb
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\DistributedProcess\obj\Debug\DistributedProcess.exe
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\DistributedProcess\obj\Debug\DistributedProcess.pdb

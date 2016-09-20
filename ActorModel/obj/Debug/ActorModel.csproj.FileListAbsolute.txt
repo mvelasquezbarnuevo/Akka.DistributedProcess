@@ -1,0 +1,10 @@
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\ActorModel.dll
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\ActorModel.pdb
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\Akka.dll
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\Newtonsoft.Json.dll
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\System.Collections.Immutable.dll
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\Akka.xml
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\Newtonsoft.Json.xml
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\bin\Debug\System.Collections.Immutable.xml
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\obj\Debug\ActorModel.dll
+c:\users\marcovm\documents\visual studio 2015\Projects\DistributedProcess\ActorModel\obj\Debug\ActorModel.pdb

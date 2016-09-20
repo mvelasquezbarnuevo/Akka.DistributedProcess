@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedProcess", "DistributedProcess\DistributedProcess.csproj", "{73DB840A-7673-4628-8D28-F94AC206EE4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActorModel", "ActorModel\ActorModel.csproj", "{C003B8A2-2F10-4EAF-A307-7AC5D46625ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{D738900A-E730-49D1-A1B7-EBB3FDF84CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73DB840A-7673-4628-8D28-F94AC206EE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DB840A-7673-4628-8D28-F94AC206EE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DB840A-7673-4628-8D28-F94AC206EE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DB840A-7673-4628-8D28-F94AC206EE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C003B8A2-2F10-4EAF-A307-7AC5D46625ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C003B8A2-2F10-4EAF-A307-7AC5D46625ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C003B8A2-2F10-4EAF-A307-7AC5D46625ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C003B8A2-2F10-4EAF-A307-7AC5D46625ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D738900A-E730-49D1-A1B7-EBB3FDF84CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D738900A-E730-49D1-A1B7-EBB3FDF84CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D738900A-E730-49D1-A1B7-EBB3FDF84CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D738900A-E730-49D1-A1B7-EBB3FDF84CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
